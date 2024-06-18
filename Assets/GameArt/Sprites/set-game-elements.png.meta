@@ -1,0 +1,4006 @@
+fileFormatVersion: 2
+guid: a0bd73e68743ba54fad3997d479f88b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-game-elements_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1313
+        width: 561
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972567a55fc676e4fa82a25f5bc37efe
+      internalID: 1057657222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1992
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc567ab769dd44d86cfd4cb6354d67
+      internalID: 698643716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1992
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6e1539fdb1124e97fead5a9780fa3
+      internalID: 2408477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1993
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628a47fc1692d048bc977dd77aee3e3
+      internalID: -1916066484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1993
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5cc0e2c806fb459338ab8a2c32de9
+      internalID: -2065595886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1356
+        width: 491
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea070385a0fab843be44959c02d801f
+      internalID: -46705705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1986
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a56f4bd5382e419f2d1efc379183c
+      internalID: -241418993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_7
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1976
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465bb0ea041c2c41b438210ec3a2350
+      internalID: -1271156888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1968
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d049912783994baba86b0a94d873a
+      internalID: 1726720822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116796c75e749f941b3e67308542d499
+      internalID: -1217313779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c900c52f30323d4dadb9cd814745ca6
+      internalID: -1695125170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1914
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776d914a4fb63164c8cafcb96e490af5
+      internalID: -298855147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1806
+        width: 4
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2446d0fd20eb4db5a1b8e45755c73
+      internalID: -38882615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1383
+        width: 369
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a11e1735b95f4ba155afcbc7dc1f7
+      internalID: -482466012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_21
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ce050b97afa649b03cc3a419591bd
+      internalID: -1502942385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1788
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64600ccf33fb37c449a47000bb975dd2
+      internalID: -1372459246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_26
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1782
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9276ef48ce67f4088974aa725186ab
+      internalID: -1840218148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1668
+        width: 12
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f731ed56f046e47ab5eac5fce5dae3
+      internalID: -2124426640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2756ef6d17fc4db8768f1d14732c3
+      internalID: -47174764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_30
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c1aa8b1095a914c88bfdb5e2cb2182
+      internalID: -382727538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18294ff4b5920c4fa6ebf330a398f6e
+      internalID: -583266111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1710
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79753e2162de28a4385e6e4a712f9022
+      internalID: 2132479669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_33
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44175ae0f4a2a49b085b66176187d3
+      internalID: 1029520047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_35
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1692
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd66a71d01bf24a87a979d785e4cf9
+      internalID: 4004652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1692
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80ac84344de5b4d80c663b177ac2ef
+      internalID: -549806899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1626
+        width: 5
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7d941da4a65245a1a0edb618b11b5
+      internalID: -265317394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1686
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24af37c785148d4280c85e31cf53f59
+      internalID: -896780462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1656
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12210f1c9722b1f44a38bfd37519366f
+      internalID: 1832519735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_40
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1656
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b46629b1d1f2b4f86852f577844d9e
+      internalID: 1410651127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_41
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738fd366f1a62d14997c55a599f5f9fe
+      internalID: 2139485984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1650
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199cb63c037db6b41a139e545db7932c
+      internalID: 1360768477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_43
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedaae73cdf282b49beda5107557f492
+      internalID: 1025735784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_44
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1638
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4021d18a48ff1a45aeb553d756c5bd7
+      internalID: 1719017154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670bb692e5a4c9644b6dc62e3c3525a6
+      internalID: -2069771193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1512
+        width: 12
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7234f55ceaf1f47a3d005a5e7f2f98
+      internalID: 1816241478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1566
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e85ee3abda374d89106323708a235
+      internalID: 341016597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1584
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cdeb5fe21396142a6486639a3eab96
+      internalID: -798587759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1572
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990202c913373248a315dc2aecb5b3d
+      internalID: 915897416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1542
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c48e6f70dd390b4ba6e8e5e0b734a79
+      internalID: 1861536592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1542
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b52a47dd5cb649aee86c7e48fb236
+      internalID: 647777125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_52
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1434
+        width: 12
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe5ef871ef6bb4ca6b5b89d476c761
+      internalID: 663926597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_53
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1488
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d23a48de027fb741a68db8aedfb1df6
+      internalID: -2112192290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_54
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1482
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717744e1ca178f44fbf65d576116cba7
+      internalID: 1820378114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_55
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c01167a6423b44da6809cb809f138a
+      internalID: 526583353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_58
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1434
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e5746a76a8fe47896ce0c5144cd5c
+      internalID: 998639885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_59
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1356
+        width: 4
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ade564e27dd5848a76732660bd023c
+      internalID: 1789838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1428
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a1e81831ac6f48ade00c402d2ff90
+      internalID: -963663697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_61
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6fadbc0d1a544782088e6c29103fe
+      internalID: -330233437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb75da80d964af4baafc8a92bc74a00
+      internalID: 497431724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_64
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e460db011c4f34e90f157622541faf
+      internalID: 2101520630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_65
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0abbfddf01a244a9c490c9a5ad9b03
+      internalID: 1956154992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_66
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a183095301f043aa5a21651a6216a
+      internalID: 806614927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_67
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1350
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d1cb378d96d247b822b5817f58cc7
+      internalID: -2024337317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_68
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578a105159332147b4252cc656890ce
+      internalID: -356074537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_69
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f201850562f84fb8d191e22640403
+      internalID: -1376288989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_70
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21c1ce161144474cad05d258dcced07
+      internalID: -1293946581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_71
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1332
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b343f20707464ca39403f7f607608
+      internalID: 1154548339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1302
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35142f0691b12408147d23dfce2775
+      internalID: 332333929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_73
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1314
+        width: 102
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280a5226b6b072449104e9783b21223
+      internalID: 65298341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_74
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2a6cbf99178b4194b221ec5cc19cf
+      internalID: 190685038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1302
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cda6f186b6b04cb017857b443b8a1
+      internalID: -274363390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_76
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1308
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45be9ea7d5dd240ba190fda919cbfb
+      internalID: -1650038864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_78
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9e1ee2e7e13f49907cb06f0a5435a
+      internalID: 1991052968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_82
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfbd7738a389645a905ca37df2d03e
+      internalID: 509123271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1278
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acef15b5e023943ae86e48514235d7
+      internalID: 1590489662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e2b1386a2df44094f075c62186fb3
+      internalID: 795726861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_85
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1266
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1e409fa98fb3429a30f56f1bfcc30
+      internalID: -1363409705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed52c48667f7e4341b55906c64c8c7ff
+      internalID: 808704011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_87
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1225
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc4a1248a618549b6a4da004c7d5f4
+      internalID: -683895959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6175d6875c7d6545b327e027e12830c
+      internalID: 1342147765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_89
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3fa06842c2db48813a3ecb0ee4173
+      internalID: -922973023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 618
+        width: 498
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae145918b3b75b4aa1710382ddadd23
+      internalID: 256482890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_91
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db33b4a0c5215d46bde01e48ba1c553
+      internalID: 728145661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_92
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf6e12446641e439913f0ffc44f837
+      internalID: -1467194503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_93
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73a17c151abb442976070f4bc1d12f
+      internalID: -1325619408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_94
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1214
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4813f3576d4f5f45bab7a4466e85bd7
+      internalID: -628519902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_95
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 638
+        width: 450
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725fd7fd9676fce42aa156bb4c83799a
+      internalID: 1240805996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_96
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b1c1b377d4f443b0d2f2c7cdc28ef
+      internalID: 982350151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_97
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 590
+        width: 642
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9dc63377feb194da73031198545eed
+      internalID: 1861645812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_98
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1154
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea3c3f69e40c74bb87b1df0af6584c
+      internalID: 135831539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_99
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa1e7198da7fa45a4528f9cf8027f0
+      internalID: 1424584958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_100
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aecb76952a8ede439e30b2e39922e5a
+      internalID: -1652930029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7433bf11da4bd49b0e3dae57723421
+      internalID: -54336356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1092
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee3db44b41cb04ba3d305127e2d1b8
+      internalID: -290315900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_103
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 936
+        width: 47
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3a3d5840b45f47932612718eead39
+      internalID: -1338169044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_104
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1086
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2c4b5a54dc464e80ccf8e6860fddb
+      internalID: -1873772121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_105
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1068
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8bbd0f5937d1e4f8a37cb369832c36
+      internalID: 345659157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1062
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5944179b1f97d47bf5b6995bc5db0f
+      internalID: 542296125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_107
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1050
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab47b4b2356f7142a53ae69f9002319
+      internalID: -1128870089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_108
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1044
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6aee2037eaed4d99509fd29c1af30
+      internalID: -184514364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_109
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1020
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ef7ed511f1364da44a68b9e17e681
+      internalID: -1841783903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_110
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 984
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59481985a75241a47a0d9fe1c98e8e7b
+      internalID: 1719412276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_111
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 996
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa9648adb29cc64699d796c0ac906aa
+      internalID: 1291645080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_112
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 960
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b2691a045c75438b4f9fa4356d1d7
+      internalID: 2004308652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_113
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 960
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a84a58556bec4182a3afcaaa13649
+      internalID: 1637922208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_114
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 804
+        width: 4
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332ca7f10733ba429107b5974855cad
+      internalID: -1565958128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_115
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568190cdd03820a4a8161fe2fbd0c26a
+      internalID: 519559681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_116
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87589b05595eae94bb2031b1d9f09b14
+      internalID: 1168775799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_117
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 864
+        width: 17
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb8b6dc2d554649b81e786981f4f9b
+      internalID: 1065303196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_118
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 936
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f69cbd58db7ea42bedc37c18ad264c
+      internalID: 1017597059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_119
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf071d9b54db5a488979403541e58df
+      internalID: 437118909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_120
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 918
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c340fd60c017946a4ca7ab510a3816
+      internalID: 81843881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_121
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 918
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5667f092a3c483c499c00b5a6019130d
+      internalID: 1224580104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_122
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 918
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb130a36428bd46936acd9e486ceb2
+      internalID: 1874308758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_123
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 918
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49caff9e9e0f327488b00e3df49f8043
+      internalID: 1684785218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_124
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 774
+        width: 6
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af225c0d87fb7c345895c974cc8ef0cb
+      internalID: 344645207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_125
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 762
+        width: 15
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9680c142fd86b4484e12a3391c32f8
+      internalID: 2003978298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_126
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 882
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f2ddbcad873d4fae58cbfb7f83332
+      internalID: -453724184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_127
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 888
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6d783bcf473b40b4f589d5bd3c19a
+      internalID: 187450668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_128
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e471c85f47394042b6d7eac964aa9ed
+      internalID: 999338807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_129
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 858
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8b1edf351f9144b34f606e397298f
+      internalID: -2028579419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_130
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 864
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ea5b3e24d78c4fb3de453bcbbb993
+      internalID: 733654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_131
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 816
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b69118fb8f276449ade2e1a7a361a6
+      internalID: 699166701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_132
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 792
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a30fb9c6984e4ca02f5f33b08d697
+      internalID: -2118384063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_133
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 780
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90754380b9478f44f8fcd22bba9970fe
+      internalID: 971211374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_134
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 726
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec13584d20a91c46bb64ef45ca1b130
+      internalID: 1201362707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_135
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 762
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8f61002ef5f642aa2f2321095bb41
+      internalID: 890074610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_136
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 762
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3301c260241665499776b955a1e9965
+      internalID: -644695602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_137
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 756
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d69bf63a6c6867468558dd50b17c9f0
+      internalID: -1541646966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_138
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 750
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b4a288e143054dac650d92e2d11a1
+      internalID: 14693681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_139
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 739
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35d6f05ee195e468453963920490b1
+      internalID: 1700912624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_140
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 744
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb77350e97e484790700f2f1cc28bb
+      internalID: -74726286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_141
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 738
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77609915b0c49fe4593473f9f78ca32d
+      internalID: 2083661806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_142
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 732
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0ad69e0a235143ad82f455f1c7042
+      internalID: 2072108896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_143
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 714
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e47278f527a44ebc3c3b664e97bd6
+      internalID: -1301282179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 661
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538323da233533b4ebd07cf432a0d3a4
+      internalID: -1509592858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_145
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 714
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345928524e1a7d9429ecb9d13aea1411
+      internalID: -622935150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_146
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 672
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1303c919b56468249b7fc3629b9ed617
+      internalID: -1805418542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_147
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a153f1ecb9a218d4fa4600a0c295d5db
+      internalID: -1277471874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_148
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509cdca2e82521843ab2328b7b1b89b9
+      internalID: -192773865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_149
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00326275b565eed4c9afc722355dfa8a
+      internalID: 454446708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_150
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 660
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb096a63f7c7547990d5d811bbda15
+      internalID: -489818979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_151
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca30eba3c3611c4abe1cd86039db751
+      internalID: -1099723030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_152
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 600
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc96117803a90104c9119a3731a77774
+      internalID: -567905380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_153
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 600
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45125f3cf2321474fa0c7f235e4fe2d1
+      internalID: 1552155813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_154
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 602
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ceb9d9145ab148adea1ca61075181
+      internalID: -610199696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_155
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 600
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37cb61ee5860bb458b5a70ca0da8698
+      internalID: 127350678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_156
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 552
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f31e7841ef0849aee83ca31356500
+      internalID: -235097445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_157
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 570
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f758276ce2071945b2df1f70410de2c
+      internalID: -1961757037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_158
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 600
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5bb9b6ad59044d89458a148c3cf50
+      internalID: 1919373063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd20aad79b0f4d4896a193750f81a8a
+      internalID: -1783386388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_160
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 582
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445f386bcca39946ab83418f16cd865
+      internalID: -1645517865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_161
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 588
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b1b836b1e72c4681db5725ede84ee
+      internalID: 1763379835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_162
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 576
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a912c2dbbf3d4a9b71190a6938c6a
+      internalID: 565743037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_163
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 558
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d141aad9f8821447a6aed05fdb93430
+      internalID: 1050533436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_164
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 582
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c040854620bb45aae6a01787cb604
+      internalID: -1754213554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_165
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 639
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad737eee23d824787a8e4c014ca76d
+      internalID: 1685546109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_166
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 576
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b787e2bdefb9d844f8940acc104ceddb
+      internalID: -956047781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_167
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 564
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114ee323762adc428fc04a69e20293a
+      internalID: -1059314200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_168
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 28
+        width: 570
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a94a6b4ebd0c4296df58b27415062
+      internalID: -1544356976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_169
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d968f20546dd914dabd24be2dfafc81
+      internalID: 608822983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_170
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0d0e826d03d640b990b4c646d0ab7
+      internalID: -555913347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 108
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6170409ebe705488271276ffb18aa5
+      internalID: 1642020526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_172
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdd3269ff2b1a4698537ecf77dab8f
+      internalID: 703847768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_173
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 540
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2885534a1d074b933d73708510434
+      internalID: 436029233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_174
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526d748cb3e1184ba29973d55212708
+      internalID: -534323199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_175
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162a4988a9d17c498fcaebc64df26ca
+      internalID: 1562333553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_176
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 24
+        width: 522
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec03ac8d13c50242ac6a97268f83f02
+      internalID: -296768073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_177
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 510
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab83567956ba4d488d5af275f796c86
+      internalID: -2105975451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_178
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e92d27831ffdea46941a1904a9f6fdf
+      internalID: 1493723854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_179
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737f4fbd1cfeba47ab09887bab8a7d4
+      internalID: 2054626551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_180
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d666c2152c105a746a589791cde15a8f
+      internalID: -621017847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_181
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f894894e3d44b9643a6b02c68658f300
+      internalID: -1629751489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_182
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abca871713b9d946a5ecc7ff2f17949
+      internalID: 1302982668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_183
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8596f94d93e194cbdb99809c0d0bb4
+      internalID: -1007358947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_184
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c117ee62f2684f4d8790e5fba2db1d0
+      internalID: 994469305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a477c5cae0434c40b10ed4be18e1f65
+      internalID: -225105366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_186
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabdfccccfcc9f4faf229ea0da6997a
+      internalID: -2052925492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_187
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb88884e89c589e4ebca35c2b753f92d
+      internalID: 687192841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_188
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871ac07f1c2aac4481f500bcd123a42
+      internalID: 1333103745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_189
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3529edc8895140a4bf12f963135fb
+      internalID: -762905589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_190
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690351b3f87f72044aa9ccd310ab0fe0
+      internalID: -772733148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_191
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee2c4891413c74eb06edb650242fa6
+      internalID: -487315452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-game-elements_192
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52049e331cc9c42adb92a2b1c0c8d6
+      internalID: -1844061281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-game-elements_82: 509123271
+      set-game-elements_13: -119680095
+      set-game-elements_152: -567905380
+      set-game-elements_183: -1007358947
+      set-game-elements_70: -1293946581
+      set-game-elements_6: -241418993
+      set-game-elements_139: 1700912624
+      set-game-elements_20: -1965375701
+      set-game-elements_5: -46705705
+      set-game-elements_150: -489818979
+      set-game-elements_128: 999338807
+      set-game-elements_83: 1590489662
+      set-game-elements_171: 1642020526
+      set-game-elements_99: 1424584958
+      set-game-elements_149: 454446708
+      set-game-elements_41: 2139485984
+      set-game-elements_78: 1991052968
+      set-game-elements_185: -225105366
+      set-game-elements_47: 341016597
+      set-game-elements_177: -2105975451
+      set-game-elements_132: -2118384063
+      set-game-elements_48: -798587759
+      set-game-elements_109: -1841783903
+      set-game-elements_147: -1277471874
+      set-game-elements_115: 519559681
+      set-game-elements_167: -1059314200
+      set-game-elements_27: -2124426640
+      set-game-elements_45: -2069771193
+      set-game-elements_114: -1565958128
+      set-game-elements_94: -628519902
+      set-game-elements_16: -500109037
+      set-game-elements_44: 1719017154
+      set-game-elements_68: -356074537
+      set-game-elements_111: 1291645080
+      set-game-elements_189: -762905589
+      set-game-elements_164: -1754213554
+      set-game-elements_141: 2083661806
+      set-game-elements_98: 135831539
+      set-game-elements_9: 1726720822
+      set-game-elements_159: -1783386388
+      set-game-elements_170: -555913347
+      set-game-elements_89: -922973023
+      set-game-elements_191: -487315452
+      set-game-elements_46: 1816241478
+      set-game-elements_126: -453724184
+      set-game-elements_85: -1363409705
+      set-game-elements_37: -265317394
+      set-game-elements_31: -583266111
+      set-game-elements_192: -1844061281
+      set-game-elements_135: 890074610
+      set-game-elements_21: -1502942385
+      set-game-elements_54: 1820378114
+      set-game-elements_26: -1840218148
+      set-game-elements_169: 608822983
+      set-game-elements_8: -1992578207
+      set-game-elements_161: 1763379835
+      set-game-elements_145: -622935150
+      set-game-elements_75: -274363390
+      set-game-elements_29: 1461352999
+      set-game-elements_103: -1338169044
+      set-game-elements_120: 81843881
+      set-game-elements_102: -290315900
+      set-game-elements_143: -1301282179
+      set-game-elements_63: 497431724
+      set-game-elements_162: 565743037
+      set-game-elements_112: 2004308652
+      set-game-elements_34: -1257589773
+      set-game-elements_39: 1832519735
+      set-game-elements_10: -1388628139
+      set-game-elements_23: -638073578
+      set-game-elements_124: 344645207
+      set-game-elements_188: 1333103745
+      set-game-elements_71: 1154548339
+      set-game-elements_17: -38882615
+      set-game-elements_62: -311353035
+      set-game-elements_117: 1065303196
+      set-game-elements_173: 436029233
+      set-game-elements_144: -1509592858
+      set-game-elements_50: 1861536592
+      set-game-elements_142: 2072108896
+      set-game-elements_53: -2112192290
+      set-game-elements_74: 190685038
+      set-game-elements_14: -1695125170
+      set-game-elements_154: -610199696
+      set-game-elements_160: -1645517865
+      set-game-elements_18: -473903002
+      set-game-elements_51: 647777125
+      set-game-elements_58: 998639885
+      set-game-elements_55: 526583353
+      set-game-elements_49: 915897416
+      set-game-elements_137: -1541646966
+      set-game-elements_153: 1552155813
+      set-game-elements_72: 332333929
+      set-game-elements_151: -1099723030
+      set-game-elements_163: 1050533436
+      set-game-elements_30: -382727538
+      set-game-elements_86: 808704011
+      set-game-elements_133: 971211374
+      set-game-elements_190: -772733148
+      set-game-elements_73: 65298341
+      set-game-elements_87: -683895959
+      set-game-elements_179: 2054626551
+      set-game-elements_80: -454727251
+      set-game-elements_59: 1789838921
+      set-game-elements_35: 4004652
+      set-game-elements_93: -1325619408
+      set-game-elements_123: 1684785218
+      set-game-elements_22: -1739651662
+      set-game-elements_43: 1025735784
+      set-game-elements_138: 14693681
+      set-game-elements_67: -2024337317
+      set-game-elements_4: -2065595886
+      set-game-elements_2: 2408477
+      set-game-elements_172: 703847768
+      set-game-elements_182: 1302982668
+      set-game-elements_110: 1719412276
+      set-game-elements_122: 1874308758
+      set-game-elements_134: 1201362707
+      set-game-elements_42: 1360768477
+      set-game-elements_184: 994469305
+      set-game-elements_40: 1410651127
+      set-game-elements_69: -1376288989
+      set-game-elements_1: 698643716
+      set-game-elements_127: 187450668
+      set-game-elements_180: -621017847
+      set-game-elements_95: 1240805996
+      set-game-elements_136: -644695602
+      set-game-elements_64: 2101520630
+      set-game-elements_155: 127350678
+      set-game-elements_107: -1128870089
+      set-game-elements_19: -482466012
+      set-game-elements_100: -1652930029
+      set-game-elements_113: 1637922208
+      set-game-elements_181: -1629751489
+      set-game-elements_88: 1342147765
+      set-game-elements_61: -330233437
+      set-game-elements_130: 733654967
+      set-game-elements_104: -1873772121
+      set-game-elements_25: -321806520
+      set-game-elements_118: 1017597059
+      set-game-elements_38: -896780462
+      set-game-elements_66: 806614927
+      set-game-elements_76: -1650038864
+      set-game-elements_28: -47174764
+      set-game-elements_158: 1919373063
+      set-game-elements_168: -1544356976
+      set-game-elements_7: -1271156888
+      set-game-elements_140: -74726286
+      set-game-elements_187: 687192841
+      set-game-elements_12: 420647306
+      set-game-elements_148: -192773865
+      set-game-elements_24: -1372459246
+      set-game-elements_91: 728145661
+      set-game-elements_121: 1224580104
+      set-game-elements_65: 1956154992
+      set-game-elements_92: -1467194503
+      set-game-elements_165: 1685546109
+      set-game-elements_178: 1493723854
+      set-game-elements_96: 982350151
+      set-game-elements_166: -956047781
+      set-game-elements_52: 663926597
+      set-game-elements_81: 279547992
+      set-game-elements_11: -1217313779
+      set-game-elements_36: -549806899
+      set-game-elements_175: 1562333553
+      set-game-elements_15: -298855147
+      set-game-elements_84: 795726861
+      set-game-elements_3: -1916066484
+      set-game-elements_157: -1961757037
+      set-game-elements_57: 92931612
+      set-game-elements_32: 2132479669
+      set-game-elements_146: -1805418542
+      set-game-elements_156: -235097445
+      set-game-elements_129: -2028579419
+      set-game-elements_131: 699166701
+      set-game-elements_176: -296768073
+      set-game-elements_33: 1029520047
+      set-game-elements_97: 1861645812
+      set-game-elements_101: -54336356
+      set-game-elements_116: 1168775799
+      set-game-elements_56: 1592063163
+      set-game-elements_108: -184514364
+      set-game-elements_77: 1664740755
+      set-game-elements_90: 256482890
+      set-game-elements_79: 2077008241
+      set-game-elements_119: 437118909
+      set-game-elements_186: -2052925492
+      set-game-elements_106: 542296125
+      set-game-elements_105: 345659157
+      set-game-elements_125: 2003978298
+      set-game-elements_174: -534323199
+      set-game-elements_0: 1057657222
+      set-game-elements_60: -963663697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

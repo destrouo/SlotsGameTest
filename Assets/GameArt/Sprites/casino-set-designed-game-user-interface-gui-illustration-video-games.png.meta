@@ -1,0 +1,2777 @@
+fileFormatVersion: 2
+guid: 5aeecc81ca43faa45aa5e87540540a4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1836
+        width: 378
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7abdf0bb5897544b87e06f513fc1d30
+      internalID: -1611115882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1890
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce8ff8325d7eb845bf727858ee60ab8
+      internalID: -496101006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_2
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1900
+        width: 102
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ca1011664a9844a1a37832d167580
+      internalID: -1107396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1884
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35376c582879c4fb86ea0f90c360c2
+      internalID: 1960217572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_4
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1488
+        width: 552
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12d3bf9c1e50b4c9af094f50f836cb
+      internalID: -1124719046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef440af73f5c241b0be824e1de7df9
+      internalID: 1592253608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6619a851f553e44bd791eeecd4a8e9
+      internalID: -558870599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_7
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2213a4b6161af54f8490c8ef807ae2e
+      internalID: 351126982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_8
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1866
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e92ef6953ab94e80544dc50424efa
+      internalID: 1465342313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1548
+        width: 474
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7efb697d989e4ca9758569725a454
+      internalID: -1112810389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_10
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66a77728a3c164a9fc5aabd93bcad3
+      internalID: 2057732262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1512
+        width: 434
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120807eecc2b7942844f1f0d9afbc6b
+      internalID: -326630322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_12
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1836
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded52fc73a3e3ab41b60191b9cc0689d
+      internalID: 2103741758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1830
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4acb6416f1e664ea584082cd8d15e1
+      internalID: 203973874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1830
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163156108d55894d9e7a0d52a4ac7cd
+      internalID: 1493916372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1770
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3733df97f2839d341a948bc188a84457
+      internalID: -701182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1782
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe088d48d555894da29492080b2dbad
+      internalID: 1180637544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_17
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1800
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50007f9bedcd68342ae1a12b0ddb4461
+      internalID: -273182035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_18
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1776
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dab0207721d674fb659c6db11c4508
+      internalID: -888784286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1764
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd87f3617adcde49aadd0de6f5afb41
+      internalID: 1867727434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd43ca159bb2de44bc96754ec266b7e
+      internalID: -1521647797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1638
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752398a17df1c814a85386b5ce124e8f
+      internalID: -153763550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1752
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d8f81aa66f914ebb401f652d801a1
+      internalID: -53431410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1746
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0a61854d1c4f148888fc6f24a1a46c
+      internalID: 397596373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_24
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ec6f7553b1414285e46e3d4ebc403
+      internalID: 1089872760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1674
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d093898163b6c4ebf30b10155bb8ea
+      internalID: 1775867031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_26
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1584
+        width: 8
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284cd7ae9dfbb6488c7cf9bfa43eb5f
+      internalID: 920770167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1644
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29480b6e13e76574e81d71de4c00e8c9
+      internalID: 1845728281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dd38cf826f29418c7b6163b205f34
+      internalID: 416207984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38def12baed861d489d7f6cc7bb8b33a
+      internalID: -1804965494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_30
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1361691bd2fe2c4bae43782721673bb
+      internalID: -1506280326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_31
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7244d8405a60548b11bde482850cb7
+      internalID: 1439825439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_32
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e7fee48490ba44bb847c3b1fddc0b
+      internalID: 1374518334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1500
+        width: 510
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07762ad1411542f45abd4a9e592af11b
+      internalID: 1617063720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_34
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b11b1627fe104f9e0de1288aa3730
+      internalID: 1792427122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1584
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8005e3eb981590c489fcdb004de7dec6
+      internalID: -1685108315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_36
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1578
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1485f80e603d48915cc88a0c8cfc0
+      internalID: -496434327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_37
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1554
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645c30e4daeca0439362e7d25cf1624
+      internalID: 723633689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_38
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1542
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36fe8db84b4c9b45afb932d9d9045c2
+      internalID: 1149864654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1524
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b22588e11bca4188a3f76493c3ef4
+      internalID: 314830937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f102cb4bfbf9744ebcd821af60507da
+      internalID: 2071078428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_41
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1494
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570838a98a88e254685531b7d3ac4270
+      internalID: -2039817574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_42
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1176
+        width: 234
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf6900b89af754fa2f2c390c572ff5
+      internalID: 933666870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_43
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1488
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80f1995baa51e4db29197079c7bf87
+      internalID: 843418208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f947d4f61d9d5648978ca4cc5dd1b51
+      internalID: 775325343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1452
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ea37f5a0400e478582427fd6d2ea7
+      internalID: 249200357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1464
+        width: 162
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b12f06a5962c84b86a2c4dc95112fb
+      internalID: -110064723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_47
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 546
+        width: 413
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c64866d5e862eb47a73c5aab38226ac
+      internalID: -574272016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1452
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1d39251f81b44abcb98b9c1c044ba
+      internalID: -547630311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7735b6613e809ef4ba1532b6554068f6
+      internalID: -1314550446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_50
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1380
+        width: 300
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532e044df5f24b49bf118da23d87316
+      internalID: 1872408265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1038
+        width: 350
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf80409e6c430b43adf1ac8524475f9
+      internalID: 1352653862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e096a59819b07443abe35898c172db6
+      internalID: 973788471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1356
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce9943e0e32604ca34b941f1c135cb
+      internalID: 241287306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_54
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1326
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee8b201de6dfc4185ee7ed9937fd2b
+      internalID: 1823551967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_55
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1036
+        width: 402
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92a945f38d53543bc7de65d9086ebd
+      internalID: 393871880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_56
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1230
+        width: 30
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d10a793c307c45a19f2c9142f3ae4
+      internalID: -688794372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_57
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5925c9600cea28498dbfff4a60daf1c
+      internalID: 57551153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1332
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bbe6911c18a540af76cb4f7d4c34b
+      internalID: 2061044650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1332
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18755bd20a1d8c84bbec982ad208f206
+      internalID: -396877977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1296
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03af01d41a34ed64cbcfd1aebd640c88
+      internalID: -149172618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_61
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1308
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220d32c10531a34ba9fd2d1789a0c79
+      internalID: 1389269408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b323f8fc86863e84599e09109d942a27
+      internalID: -2067494657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee900b4c42623d84e9e134407654870d
+      internalID: -93826205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_64
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94196fef7a3869841929e880fa3cd712
+      internalID: 790186384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010f57718ddfe6241b3089d0c582106b
+      internalID: -86253863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_66
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1146
+        width: 6
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767560461242c346b1ec6dec1b99a78
+      internalID: -1338608356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_67
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1218
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567a19942488b0478dd77d27f21dd24
+      internalID: -933038636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_68
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1194
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c4aeb830d79d4aaaa787e790385cf
+      internalID: -1661599660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_69
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5803c264072949a8d352199a128cf
+      internalID: 702408464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_70
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b8638cf5d8944b89e2fb39c5acbd1
+      internalID: 1759424111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_71
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1176
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de499cc56445da448e02827f49a5eda
+      internalID: -1929329858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_72
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1146
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56c03928d96c745b1616b1895c1c82
+      internalID: 1430326386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_73
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1146
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30609a86766680844822988ce179bafb
+      internalID: 25860970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1134
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ba977a9a10df4aa762f56540e429e
+      internalID: -1710889182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_75
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1098
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa70ad907428a42bda9a8f518f2891
+      internalID: 1324495162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_76
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1116
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d8acd0334eb74c9ff5ef064d30bc0
+      internalID: -1895011809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be514aa040b2cd74390ccf7fe17893b5
+      internalID: -1613225902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_78
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bfb9772e2fe345aaab6092fc631ee
+      internalID: 587838942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1098
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41af81735f94d940bd7334d3d6002ac
+      internalID: 514893018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1092
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e096924cf159e44f8576e26d5e5f926
+      internalID: -1811149124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_81
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1098
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b4c6cbbae842468346ff949b1914e
+      internalID: -768356516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1086
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d8cd7d1092bf44b819b7b2714f78ec
+      internalID: -1548064411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_83
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1014
+        width: 420
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aca10e253101a43b2856e8ede7566b
+      internalID: -744935007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_84
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1080
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef4046620679a43963b7bc9251e9cb
+      internalID: -1511644241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_85
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1080
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ffb06006ad2f468408998281212a3
+      internalID: 116371380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1074
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c4bb8e4a81df4abf456ea9d5ab1bb
+      internalID: 173107213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_87
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1068
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cfd5c7ec8e12f4b8473039caeeadde
+      internalID: -1111831216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1014
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f3ca0b7bc4f94dae57b55ad6a6ad7
+      internalID: -655958385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1014
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf0dff5a4f6a649b4e664b2d98a9c2
+      internalID: -916907143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1008
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9f50cb4480128439568deb583af66f
+      internalID: -631418099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0d8f6bbaeccf4aad180f74160fbe4
+      internalID: 1684061584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_92
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ccda342b02cc429cecca13b4d96c4
+      internalID: 2060632755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 996
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa368bfd3cdbf44da6b154b5579d560
+      internalID: -1945466429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_94
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 996
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8042651f513939640aa7d7aac8cfeab0
+      internalID: 1330268457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_95
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 534
+        width: 468
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a7a4551311cc4aa80327ffd1e5fad
+      internalID: 1937201468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 540
+        width: 552
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c48fd062a4e3e45809ea6dd25ad3d4
+      internalID: 1562219954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 114
+        width: 564
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bc14776d30614f9ffc195a8c9b254
+      internalID: -558343321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_98
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79891ca27be8ebe428954f50622f31eb
+      internalID: -118784848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_99
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa8a93d8fcbf34abd712a0b73d4738
+      internalID: 639303268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_100
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05188d2e53114a40aa8105f2478f596
+      internalID: 660834779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_101
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e98ff9aabad84893852441a9256a6
+      internalID: -1700299210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_102
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a535690fc5a7414394ed5938c8f4f30
+      internalID: -739198779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_103
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 158
+        width: 225
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0979d676103d414bbdc9381bc4b442b
+      internalID: 1505825144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_104
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b329881870544799279eb43834f16
+      internalID: 762224367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_105
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 186
+        width: 12
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfabe8826d51a147b47e4d118ae70cc
+      internalID: 1193347197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_106
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcaaead3cd20dc429d88ad055d99e1f
+      internalID: 1306429826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_107
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa10eeb0bd0d940b39df0617c2cfdb
+      internalID: 864178720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_108
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d3e10984ffa743ab6ee1969bd75e9
+      internalID: 280362468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_109
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05062d658bc75094bb8ca23eae2cdb0c
+      internalID: -689960451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_110
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4ba7bf9f6c6a4b96c27724fae5bc0
+      internalID: 1917006613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_111
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5ed56808c384429a9075e218e1924
+      internalID: 291664009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_112
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 294
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c12edfdacefb4eb1773856c44567b
+      internalID: 1368759323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_113
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 504
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eab5bc303f82541a53c9583acdfd18
+      internalID: -974518360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_114
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1570cbed3b4bd341b6924727dd814d3
+      internalID: -466334184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_115
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14c18496250474e9db8fd1afc55019
+      internalID: 372554662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_116
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da12132b3859d0644a238aa57b7d39fc
+      internalID: -1023727591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_117
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140ffc55aa81074e83ccd2e171adf8e
+      internalID: 1896576378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casino-set-designed-game-user-interface-gui-illustration-video-games_118
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 124
+        width: 336
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516afe78178376448ce3f763977771c
+      internalID: -399180215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      casino-set-designed-game-user-interface-gui-illustration-video-games_28: 416207984
+      casino-set-designed-game-user-interface-gui-illustration-video-games_107: 864178720
+      casino-set-designed-game-user-interface-gui-illustration-video-games_23: 397596373
+      casino-set-designed-game-user-interface-gui-illustration-video-games_61: 1389269408
+      casino-set-designed-game-user-interface-gui-illustration-video-games_96: 1562219954
+      casino-set-designed-game-user-interface-gui-illustration-video-games_9: -1112810389
+      casino-set-designed-game-user-interface-gui-illustration-video-games_19: 1867727434
+      casino-set-designed-game-user-interface-gui-illustration-video-games_2: -1107396545
+      casino-set-designed-game-user-interface-gui-illustration-video-games_30: -1506280326
+      casino-set-designed-game-user-interface-gui-illustration-video-games_4: -1124719046
+      casino-set-designed-game-user-interface-gui-illustration-video-games_110: 1917006613
+      casino-set-designed-game-user-interface-gui-illustration-video-games_77: -1613225902
+      casino-set-designed-game-user-interface-gui-illustration-video-games_101: -1700299210
+      casino-set-designed-game-user-interface-gui-illustration-video-games_7: 351126982
+      casino-set-designed-game-user-interface-gui-illustration-video-games_111: 291664009
+      casino-set-designed-game-user-interface-gui-illustration-video-games_41: -2039817574
+      casino-set-designed-game-user-interface-gui-illustration-video-games_91: 1684061584
+      casino-set-designed-game-user-interface-gui-illustration-video-games_10: 2057732262
+      casino-set-designed-game-user-interface-gui-illustration-video-games_51: 1352653862
+      casino-set-designed-game-user-interface-gui-illustration-video-games_118: -399180215
+      casino-set-designed-game-user-interface-gui-illustration-video-games_31: 1439825439
+      casino-set-designed-game-user-interface-gui-illustration-video-games_36: -496434327
+      casino-set-designed-game-user-interface-gui-illustration-video-games_72: 1430326386
+      casino-set-designed-game-user-interface-gui-illustration-video-games_42: 933666870
+      casino-set-designed-game-user-interface-gui-illustration-video-games_57: 57551153
+      casino-set-designed-game-user-interface-gui-illustration-video-games_60: -149172618
+      casino-set-designed-game-user-interface-gui-illustration-video-games_98: -118784848
+      casino-set-designed-game-user-interface-gui-illustration-video-games_49: -1314550446
+      casino-set-designed-game-user-interface-gui-illustration-video-games_54: 1823551967
+      casino-set-designed-game-user-interface-gui-illustration-video-games_50: 1872408265
+      casino-set-designed-game-user-interface-gui-illustration-video-games_12: 2103741758
+      casino-set-designed-game-user-interface-gui-illustration-video-games_109: -689960451
+      casino-set-designed-game-user-interface-gui-illustration-video-games_55: 393871880
+      casino-set-designed-game-user-interface-gui-illustration-video-games_63: -93826205
+      casino-set-designed-game-user-interface-gui-illustration-video-games_112: 1368759323
+      casino-set-designed-game-user-interface-gui-illustration-video-games_3: 1960217572
+      casino-set-designed-game-user-interface-gui-illustration-video-games_8: 1465342313
+      casino-set-designed-game-user-interface-gui-illustration-video-games_0: -1611115882
+      casino-set-designed-game-user-interface-gui-illustration-video-games_65: -86253863
+      casino-set-designed-game-user-interface-gui-illustration-video-games_79: 514893018
+      casino-set-designed-game-user-interface-gui-illustration-video-games_80: -1811149124
+      casino-set-designed-game-user-interface-gui-illustration-video-games_95: 1937201468
+      casino-set-designed-game-user-interface-gui-illustration-video-games_52: 973788471
+      casino-set-designed-game-user-interface-gui-illustration-video-games_100: 660834779
+      casino-set-designed-game-user-interface-gui-illustration-video-games_115: 372554662
+      casino-set-designed-game-user-interface-gui-illustration-video-games_1: -496101006
+      casino-set-designed-game-user-interface-gui-illustration-video-games_90: -631418099
+      casino-set-designed-game-user-interface-gui-illustration-video-games_11: -326630322
+      casino-set-designed-game-user-interface-gui-illustration-video-games_83: -744935007
+      casino-set-designed-game-user-interface-gui-illustration-video-games_53: 241287306
+      casino-set-designed-game-user-interface-gui-illustration-video-games_26: 920770167
+      casino-set-designed-game-user-interface-gui-illustration-video-games_86: 173107213
+      casino-set-designed-game-user-interface-gui-illustration-video-games_85: 116371380
+      casino-set-designed-game-user-interface-gui-illustration-video-games_76: -1895011809
+      casino-set-designed-game-user-interface-gui-illustration-video-games_15: -701182355
+      casino-set-designed-game-user-interface-gui-illustration-video-games_43: 843418208
+      casino-set-designed-game-user-interface-gui-illustration-video-games_18: -888784286
+      casino-set-designed-game-user-interface-gui-illustration-video-games_46: -110064723
+      casino-set-designed-game-user-interface-gui-illustration-video-games_103: 1505825144
+      casino-set-designed-game-user-interface-gui-illustration-video-games_38: 1149864654
+      casino-set-designed-game-user-interface-gui-illustration-video-games_6: -558870599
+      casino-set-designed-game-user-interface-gui-illustration-video-games_32: 1374518334
+      casino-set-designed-game-user-interface-gui-illustration-video-games_114: -466334184
+      casino-set-designed-game-user-interface-gui-illustration-video-games_87: -1111831216
+      casino-set-designed-game-user-interface-gui-illustration-video-games_105: 1193347197
+      casino-set-designed-game-user-interface-gui-illustration-video-games_20: -1521647797
+      casino-set-designed-game-user-interface-gui-illustration-video-games_40: 2071078428
+      casino-set-designed-game-user-interface-gui-illustration-video-games_39: 314830937
+      casino-set-designed-game-user-interface-gui-illustration-video-games_82: -1548064411
+      casino-set-designed-game-user-interface-gui-illustration-video-games_94: 1330268457
+      casino-set-designed-game-user-interface-gui-illustration-video-games_25: 1775867031
+      casino-set-designed-game-user-interface-gui-illustration-video-games_88: -655958385
+      casino-set-designed-game-user-interface-gui-illustration-video-games_27: 1845728281
+      casino-set-designed-game-user-interface-gui-illustration-video-games_108: 280362468
+      casino-set-designed-game-user-interface-gui-illustration-video-games_33: 1617063720
+      casino-set-designed-game-user-interface-gui-illustration-video-games_17: -273182035
+      casino-set-designed-game-user-interface-gui-illustration-video-games_45: 249200357
+      casino-set-designed-game-user-interface-gui-illustration-video-games_47: -574272016
+      casino-set-designed-game-user-interface-gui-illustration-video-games_89: -916907143
+      casino-set-designed-game-user-interface-gui-illustration-video-games_35: -1685108315
+      casino-set-designed-game-user-interface-gui-illustration-video-games_106: 1306429826
+      casino-set-designed-game-user-interface-gui-illustration-video-games_116: -1023727591
+      casino-set-designed-game-user-interface-gui-illustration-video-games_16: 1180637544
+      casino-set-designed-game-user-interface-gui-illustration-video-games_13: 203973874
+      casino-set-designed-game-user-interface-gui-illustration-video-games_117: 1896576378
+      casino-set-designed-game-user-interface-gui-illustration-video-games_22: -53431410
+      casino-set-designed-game-user-interface-gui-illustration-video-games_37: 723633689
+      casino-set-designed-game-user-interface-gui-illustration-video-games_14: 1493916372
+      casino-set-designed-game-user-interface-gui-illustration-video-games_44: 775325343
+      casino-set-designed-game-user-interface-gui-illustration-video-games_102: -739198779
+      casino-set-designed-game-user-interface-gui-illustration-video-games_48: -547630311
+      casino-set-designed-game-user-interface-gui-illustration-video-games_29: -1804965494
+      casino-set-designed-game-user-interface-gui-illustration-video-games_92: 2060632755
+      casino-set-designed-game-user-interface-gui-illustration-video-games_74: -1710889182
+      casino-set-designed-game-user-interface-gui-illustration-video-games_56: -688794372
+      casino-set-designed-game-user-interface-gui-illustration-video-games_99: 639303268
+      casino-set-designed-game-user-interface-gui-illustration-video-games_58: 2061044650
+      casino-set-designed-game-user-interface-gui-illustration-video-games_34: 1792427122
+      casino-set-designed-game-user-interface-gui-illustration-video-games_70: 1759424111
+      casino-set-designed-game-user-interface-gui-illustration-video-games_113: -974518360
+      casino-set-designed-game-user-interface-gui-illustration-video-games_59: -396877977
+      casino-set-designed-game-user-interface-gui-illustration-video-games_67: -933038636
+      casino-set-designed-game-user-interface-gui-illustration-video-games_5: 1592253608
+      casino-set-designed-game-user-interface-gui-illustration-video-games_64: 790186384
+      casino-set-designed-game-user-interface-gui-illustration-video-games_69: 702408464
+      casino-set-designed-game-user-interface-gui-illustration-video-games_66: -1338608356
+      casino-set-designed-game-user-interface-gui-illustration-video-games_97: -558343321
+      casino-set-designed-game-user-interface-gui-illustration-video-games_21: -153763550
+      casino-set-designed-game-user-interface-gui-illustration-video-games_68: -1661599660
+      casino-set-designed-game-user-interface-gui-illustration-video-games_104: 762224367
+      casino-set-designed-game-user-interface-gui-illustration-video-games_73: 25860970
+      casino-set-designed-game-user-interface-gui-illustration-video-games_84: -1511644241
+      casino-set-designed-game-user-interface-gui-illustration-video-games_93: -1945466429
+      casino-set-designed-game-user-interface-gui-illustration-video-games_81: -768356516
+      casino-set-designed-game-user-interface-gui-illustration-video-games_71: -1929329858
+      casino-set-designed-game-user-interface-gui-illustration-video-games_24: 1089872760
+      casino-set-designed-game-user-interface-gui-illustration-video-games_75: 1324495162
+      casino-set-designed-game-user-interface-gui-illustration-video-games_62: -2067494657
+      casino-set-designed-game-user-interface-gui-illustration-video-games_78: 587838942
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

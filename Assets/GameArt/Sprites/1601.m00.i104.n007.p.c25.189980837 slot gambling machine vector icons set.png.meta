@@ -1,0 +1,2354 @@
+fileFormatVersion: 2
+guid: 276bd736af38ec44ca055ba7e46e500f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_0
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3100
+        width: 975
+        height: 1106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954b290146de4b4b92d98cf37988048
+      internalID: 194919549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_1
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3082
+        width: 1276
+        height: 1107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492bcfb43edbdf4bb5ec33458ebb74c
+      internalID: 586338820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_2
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 3031
+        width: 1459
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365a86a03869f54fba00242649f651d
+      internalID: 1418198040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_4
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 3492
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d846a474259dbb44b464ab703cbae1f
+      internalID: 800456584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_5
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 3489
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bae38ad537f8840ae9fd6b7f6fd32c
+      internalID: -1931670863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_6
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 3085
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68012bfe76911dd46abe44728797a221
+      internalID: -1459441169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_7
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 3068
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecec6e32a89b554e969715348ea0bba
+      internalID: -383001357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_8
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 3048
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270354cbe86bb3945869e90260be1d4a
+      internalID: -99239493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_9
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 3068
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fbca0c81097e4bb81b5f9fd17f5f6
+      internalID: -1988750406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_10
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 3031
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e836074fca374aacd63a1d2bb0826
+      internalID: 912606966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1658
+        width: 1192
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f68b0a5fdac034dbb13c3ecaf9d60f
+      internalID: -2037949023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_12
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1642
+        width: 1158
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41234db9c07ed7740b078183ad6d5caf
+      internalID: -1057042910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_14
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 1641
+        width: 1327
+        height: 1175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594de1d051a6be4a9a08c8c190eb8d8
+      internalID: 2066653488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_18
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 2424
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0530360d91389464bbd03377133a0ad1
+      internalID: 827636679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_19
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04f43f67d110a340be3284398ebac22
+      internalID: 1903680471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_21
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2407
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49db9560914164e89a2841fe057914
+      internalID: -606731502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_23
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2338
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ea08752d5c0b4cbddbe3b9866d7c6
+      internalID: 296602202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2219
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30e0c4767a2334c909cb5a94ef31e2
+      internalID: -462439184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_28
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 2168
+        width: 7
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa06ca241d50a429300ec7d90e940f
+      internalID: 684563642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_29
+      rect:
+        serializedVersion: 2
+        x: 5331
+        y: 2187
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408cef911b15fd4cac5838092d7ce3a
+      internalID: -571634049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_30
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 2139
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146478bc568aa344a5cd30f35fce19e
+      internalID: 723848203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_31
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 2102
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3ad0980b75abe47aae44ed2372640f
+      internalID: -1379713073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_32
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 1982
+        width: 53
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d48a83ed033747b4507228ec7c68b
+      internalID: 1046529077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_33
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2067
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904afbbd7934f946a9984dcb0f36415
+      internalID: -1020825304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_34
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2034
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f4e80444765244a72e1a8e1aa92a1
+      internalID: 1357378059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_35
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1972
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576d4b8b64fb0f409e4c45658205d78
+      internalID: 1244021513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_36
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1829
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845a4dde72f57f4eb3947a8c286b1f4
+      internalID: -357872590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_37
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 1829
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20493c67c2be44ab1dc540b83225b7
+      internalID: -2104782220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_38
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1797
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b27866f8790dc40b91158849819cde
+      internalID: 1353443752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_39
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 1779
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f698d011b9034188c80f095174c49
+      internalID: 456652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_40
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1678
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ea17380489c74584f888122ea6213
+      internalID: 633211337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_41
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1694
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d8febadf708741b6e9e87109657ed
+      internalID: 495567733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_42
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1695
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44198d98ea4cea44da9e492719f5581f
+      internalID: -1949256030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_43
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1695
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e10e9da2e1184080a3acfbebd3fcf
+      internalID: 912757099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_44
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1694
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7309f12c85be4180b7a70cc013b79
+      internalID: 1449122127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_45
+      rect:
+        serializedVersion: 2
+        x: 4711
+        y: 1695
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a5aaf28d1ff744a83ada3fcf6e4ec
+      internalID: 2013692541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_46
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 1694
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f461010a4d6c438c6af7c2681b566
+      internalID: 101120214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_47
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 1694
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25f961b5baaeb49b7aa024ca5dee48
+      internalID: -1782527091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_48
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1661
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48232b6772884bc4f9b696526478430c
+      internalID: -314147826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_49
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1661
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa01534e23eba6445952740e638f4aea
+      internalID: 1658517342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_50
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1677
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a3ca2b385705478fbd8336684f9a3
+      internalID: -900464902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_51
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1678
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb6d70c3bf401848b4ae53d6b5efdb5
+      internalID: -770809747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_52
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1677
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1acea758426147a37e20e244b9199
+      internalID: 168434565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_53
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1677
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6682847469ee4c8a6cfe6d3e8ed1b
+      internalID: -683577711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_54
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 1677
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7326d188a7feb340b8107b2c54f8328
+      internalID: 1453349000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_55
+      rect:
+        serializedVersion: 2
+        x: 5051
+        y: 1660
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5295a2ca924384cb34c0f5b72f9d0e
+      internalID: 281729158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_56
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 1677
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60919f8f1e5173429afe54af67df74a
+      internalID: 1870705662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_57
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 1661
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a0c3da86276f6439072441148ea4cc
+      internalID: 749858873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 247
+        width: 1548
+        height: 1142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b915e7b51bf6e48a6d90377f2f89a2
+      internalID: 392957895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_59
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 252
+        width: 1479
+        height: 1145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d918b1b91005d438f6468439d9745d
+      internalID: -1145022919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_60
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 1252
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff30c3c4282444babd869382012dbd
+      internalID: 1983519647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_61
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 252
+        width: 1106
+        height: 1156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6daf7875c1d7c44f8964263cd86fd94
+      internalID: -2043482731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_62
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 1272
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a1ee0d2753254a9e2d16cd39bbd2e
+      internalID: -886536901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_63
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 1254
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be0e133f1dee6469d4d86c9f7ac47e
+      internalID: 1602160346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_64
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1249
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54836ae9dc64ad478fdd78f4d26864d
+      internalID: -1436343382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_65
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1232
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdb1c9a44c5554c90c23412f9c1800
+      internalID: 14115067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_66
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3359486ba2688d4dbecc76e1b78da91
+      internalID: -1473473296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_67
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1152
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb6fb6f353a2d546ac6b9f9bbeffeb2
+      internalID: -1803630929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_68
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1058
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be2cc525a535c942a16e8f892f904c7
+      internalID: 1997316938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_69
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 1068
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8601606f1cbd47bc551f56009b696
+      internalID: 1762439242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_70
+      rect:
+        serializedVersion: 2
+        x: 5261
+        y: 1042
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75981ac9c44a9fa46b9245ff04d706c0
+      internalID: -96944599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_71
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 1034
+        width: 36
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff2aeb444eab344a2c49b217ddd25a
+      internalID: -521459410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_72
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 965
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813991a9f46584458852bbbc0e030a3
+      internalID: -615668236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_73
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 863
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fabd3aa6b17ae4c8d4ba1b34847755
+      internalID: -215415715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_74
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 864
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab13c298309844bb2233049f966eec
+      internalID: 878413444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_75
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 779
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa9bffc0cd421e4993bfe28ef3420bc
+      internalID: -436154178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_76
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 794
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47a2e8761e3084097d41325236fcab
+      internalID: -1705365954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_77
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 762
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692df9ec53e749b4a81f4f23828d7a20
+      internalID: -1961837623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_78
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 728
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e6adfc92940d419b565387185f272
+      internalID: -24826376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_79
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 729
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007227e5ee6386b459267808da4d1468
+      internalID: -1496123510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_80
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 694
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80220445dfdcbc448138be52f268260
+      internalID: 2062925548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_81
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 677
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8b7b3c41a1324ca582690b15979c2
+      internalID: -1691922002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_82
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 644
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfea2a3e078a8c4f92a2ebf72ed80f2
+      internalID: 117257365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_83
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 524
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07311e328bafdc46a9241810b089ab7
+      internalID: -569128763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_84
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 304
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e307fc8a3e353647a8431e655f60c71
+      internalID: -498433933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_85
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 288
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948d2fbedeb6854285996126408945c
+      internalID: 179408790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_86
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 304
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6657e4591533df4388a1e5646bf8828
+      internalID: -265293464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_87
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 287
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afef57933a6bda4f94b9791b0844c0c
+      internalID: 1978764480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_88
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 287
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a27f535a80c9e458a49ff22e9884b1
+      internalID: -929899542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_89
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 273
+        width: 7
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c39d39a79cf814299d03cf68ee28f9
+      internalID: -1376977736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_90
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 287
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121af516e14a054aa29495d047f1f59
+      internalID: 749140938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_91
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 305
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab46866592c344d91dfeb46da38233
+      internalID: 888827389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_92
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 288
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c68c8857aa50141801e6e33f0e93bc
+      internalID: -536678755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_93
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 271
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66e5cc4630e3b488df755510df7d2f
+      internalID: 1199902384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_94
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 271
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e124844714fe2b4191926404734eee4
+      internalID: -365208525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_95
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 288
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44000eb40067bec48bdfe42a03e18d16
+      internalID: -1866394724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_96
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 302
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3247a6651197324ea6462b1d2d1485a
+      internalID: 164986737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_97
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 287
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a509475397a92248abb1166e7221822
+      internalID: 411467856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_98
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 271
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b69de7c5a1d4a4592eb74fbac5b376
+      internalID: -994004309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_99
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 271
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f162b763ac6254b8f7b6f86fcaa24c
+      internalID: -1068683666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_100
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 288
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237eb406033af0c41b8bf8c8badc57fb
+      internalID: -1864469300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_101
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 285
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b878d4a0a23f469fb7fbac39aa2f6
+      internalID: -96033860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_102
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 271
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba3fa1a44892a408d46ca27b89e84b
+      internalID: 1801258836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_103
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 271
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f5214e9760d634ab2f8cf6ccc0341f
+      internalID: -6491312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons
+        set_104
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee8d48b0c2308a4d919fac582486dbd
+      internalID: 1458773677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_63: 1602160346
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_100: -1864469300
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_20: -2049314872
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_21: -606731502
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_71: -521459410
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_10: 912606966
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_54: 1453349000
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_69: 1762439242
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_74: 878413444
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_50: -900464902
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_52: 168434565
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_101: -96033860
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_78: -24826376
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_66: -1473473296
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_27: -462439184
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_76: -1705365954
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_73: -215415715
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_5: -1931670863
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_11: -2037949023
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_47: -1782527091
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_95: -1866394724
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_18: 827636679
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_75: -436154178
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_79: -1496123510
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_57: 749858873
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_1: 586338820
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_4: 800456584
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_58: 392957895
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_97: 411467856
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_103: -6491312
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_17: 1177873483
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_96: 164986737
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_43: 912757099
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_22: 1020049689
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_62: -886536901
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_77: -1961837623
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_83: -569128763
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_104: 1458773677
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_25: 1351561934
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_34: 1357378059
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_65: 14115067
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_81: -1691922002
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_0: 194919549
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_60: 1983519647
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_9: -1988750406
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_19: 1903680471
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_102: 1801258836
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_93: 1199902384
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_84: -498433933
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_26: 1733561136
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_49: 1658517342
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_90: 749140938
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_13: -1147480340
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_24: 908868905
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_87: 1978764480
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_45: 2013692541
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_6: -1459441169
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_92: -536678755
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_7: -383001357
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_28: 684563642
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_80: 2062925548
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_68: 1997316938
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_30: 723848203
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_2: 1418198040
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_12: -1057042910
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_67: -1803630929
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_72: -615668236
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_14: 2066653488
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_41: 495567733
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_44: 1449122127
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_98: -994004309
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_55: 281729158
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_99: -1068683666
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_35: 1244021513
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_88: -929899542
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_15: 264248627
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_23: 296602202
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_37: -2104782220
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_8: -99239493
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_3: 156327188
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_36: -357872590
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_51: -770809747
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_82: 117257365
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_29: -571634049
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_61: -2043482731
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_86: -265293464
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_48: -314147826
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_39: 456652000
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_42: -1949256030
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_53: -683577711
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_56: 1870705662
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_91: 888827389
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_33: -1020825304
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_46: 101120214
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_64: -1436343382
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_89: -1376977736
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_31: -1379713073
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_85: 179408790
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_94: -365208525
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_40: 633211337
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_70: -96944599
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_59: -1145022919
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_32: 1046529077
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_16: 1292915394
+      1601.m00.i104.n007.p.c25.189980837 slot gambling machine vector icons set_38: 1353443752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
