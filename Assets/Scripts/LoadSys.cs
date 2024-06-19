@@ -5,26 +5,26 @@ using UnityEngine.UI;
 
 public class LoadSys : MonoBehaviour
 {
-    public Text persents;
-    int persent;
-    // Start is called before the first frame update
+    [SerializeField] private Text _textValueLoading;
+    [SerializeField] private Image _fillImageLoadingGame;
+    int valuePrecentage;
+
     void Start()
     {
+        _fillImageLoadingGame.fillAmount = 0f;
+        
         StartCoroutine(Persentage());
         StartCoroutine(Loading());
     }
 
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-        
-    }
+
 
     IEnumerator Persentage()
     {
         for (int i = 0; i < 101; i++)
         {
-            persents.text = i.ToString() + "%";
+            _textValueLoading.text = i.ToString() + "%";
+            _fillImageLoadingGame.fillAmount = (float)i / 100f;
             yield return new WaitForSeconds(0.02f);
         }
 
@@ -34,6 +34,6 @@ public class LoadSys : MonoBehaviour
     IEnumerator Loading()
     {
         yield return new WaitForSeconds(2);
-       
+
     }
 }
